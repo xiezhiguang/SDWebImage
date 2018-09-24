@@ -1,1 +1,2 @@
 *.mdj binary
+Sourcetree.zip filter=lfs diff=lfs merge=lfs -text
