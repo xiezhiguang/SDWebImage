@@ -1,3 +1,5 @@
+
+.DS_Store
 # Xcode
 #
 build/
@@ -28,3 +30,6 @@ DerivedData
 #
 Pods/
 Podfile.lock
+
+
+
